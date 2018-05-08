@@ -1,2 +1,2 @@
-# hello-world
-Just another repositiry
+# Groups
+Repositiry for SearchInform test task
