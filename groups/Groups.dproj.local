@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.PAS,E:\igor\develop\searchinform\1\groups\GRPMAIN.PAS=E:\igor\develop\searchinform\1\groups\SDIMAIN.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\igor\develop\searchinform\1\groups\DMUnit.dfm=E:\igor\develop\searchinform\1\groups\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\igor\develop\searchinform\1\groups\GRPMAIN.dfm=E:\igor\develop\searchinform\1\groups\SDIMAIN.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\igor\develop\searchinform\1\groups\FindUnit.dfm=E:\igor\develop\searchinform\1\groups\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\igor\develop\searchinform\1\groups\FindUnit.pas=E:\igor\develop\searchinform\1\groups\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\igor\develop\searchinform\1\groups\ConnectUnit.pas=E:\igor\develop\searchinform\1\groups\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\igor\develop\searchinform\1\groups\DMUnit.pas=E:\igor\develop\searchinform\1\groups\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\igor\develop\searchinform\1\groups\ConnectUnit.dfm=E:\igor\develop\searchinform\1\groups\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\igor\develop\searchinform\1\groups\SDIAPP.dproj=E:\igor\develop\searchinform\1\groups\SDIAPP.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\igor\develop\searchinform\1\groups\Groups.dproj=E:\igor\develop\searchinform\1\groups\SDIAPP.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
